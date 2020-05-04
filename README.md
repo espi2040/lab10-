@@ -1,2 +1,2 @@
-# lab9-
-uses MySql to look up quotes.
+# lab10
+uses MySql to look up quotes. and edith
